@@ -1,0 +1,4 @@
+#!/Users/Samuel/Desktop/football/venv/bin/python
+
+import nflgame.update_players
+nflgame.update_players.run()
